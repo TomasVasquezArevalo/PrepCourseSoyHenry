@@ -1,2 +1,2 @@
 # PrepCourseSoyHenry
-Este es un primer repositorio de prueba del Prep Course
+Tomás Vásquez Arévalo Este repositorio es una prueba para poder demostrar que podemos crear y clonar repositorios a mi Escritorio
